@@ -1,0 +1,177 @@
+{"feedRibbonMeta":[{
+  "filterBoxStatus": {
+    "1": {
+      "type": "NEWS FEED",
+      "filterStatus": "(67/100)"
+    },
+    "2": {
+      "type": "UNREAD",
+      "filterStatus": "(67/67)"
+    },
+    "3": {
+      "type": "BOOKMARKS",
+      "filterStatus": "(10/50)"
+    },
+    "4": {
+      "type": "ARCHIVE",
+      "filterStatus": "(1000/500580)"
+    },
+    "5": {
+      "type": "Bla",
+      "filterStatus": "(1000/500580)"
+    }
+  },
+  "filter": {
+    "1": {
+      "type": "NEWS FEED",
+      "data": "Inbox",
+      "value": 1,
+      "filterStatus": "(67/100)"
+    },
+    "2": {
+      "type": "UNREAD",
+      "data": "Markread",
+      "value": 2,
+      "filterStatus": "(67/67)"
+    },
+    "3": {
+      "type": "BOOKMARKS",
+      "data": "Bookmark",
+      "value": 3,
+      "filterStatus": "(10/50)"
+    },
+    "4": {
+      "type": "ARCHIVE",
+      "data": "Archive",
+      "value": 4,
+      "filterStatus": "(1000/500580)"
+    }
+  },
+  "sort": {
+    "1": {
+      "type": "RECIVED DATE",
+      "value": 1,
+      "icon": "<Sort />"
+    },
+    "2": {
+      "type": "LAST MODIFIED",
+      "value": 2,
+      "icon": "<Sort />"
+    },
+    "3": {
+      "type": "CLEAR",
+      "value": 3,
+      "icon": "<Sort />"
+    }
+  },
+  "currentInFolder": {
+    "value": 0,
+    "type": "currentInFolder",
+    "data": [{
+      "value": 0,
+      "primaryText": "ALL"
+    }, {
+      "value": 1,
+      "primaryText": "CASES"
+    }, {
+      "value": 2,
+      "primaryText": "ASSESTS"
+    }]
+  },
+  "currentCreator": {
+    "value": 0,
+    "type": "currentCreator",
+    "data": [{
+      "value": 0,
+      "primaryText": "Admin"
+    }, {
+      "value": 1,
+      "primaryText": "Analyst"
+    }]
+  },
+  "currentPriority": {
+    "value": 0,
+    "type": "currentPriority",
+    "data": [{
+      "value": 0,
+      "primaryText": "Urgent"
+    }, {
+      "value": 1,
+      "primaryText": "High"
+    }, {
+      "value": 2,
+      "primaryText": "Medium"
+    }, {
+      "value": 3,
+      "primaryText": "Low"
+    }]
+  },
+  "currentGeneralType": {
+    "value": 0,
+    "type": "currentGeneralType",
+    "data": [{
+      "value": 0,
+      "primaryText": "Humint"
+    }, {
+      "value": 1,
+      "primaryText": "Sigint"
+    }, {
+      "value": 2,
+      "primaryText": "Osint"
+    }, {
+      "value": 3,
+      "primaryText": "Visint"
+    }]
+  },
+  "currentCrimeType": {
+    "value": 0,
+    "type": "currentCrimeType",
+    "data": [{
+      "value": 0,
+      "primaryText": "Murder"
+    }, {
+      "value": 1,
+      "primaryText": "Sigint"
+    }, {
+      "value": 2,
+      "primaryText": "Osint"
+    }, {
+      "value": 3,
+      "primaryText": "Visint"
+    }]
+  },
+  "currentRealibility": {
+    "value": 0,
+    "type": "currentRealibility",
+    "data": [{
+      "value": 0,
+      "primaryText": "Urgent"
+    }, {
+      "value": 1,
+      "primaryText": "High"
+    }, {
+      "value": 2,
+      "primaryText": "Medium"
+    }, {
+      "value": 3,
+      "primaryText": "Low"
+    }]
+  },
+  "currentSourceType": {
+    "value": 0,
+    "type": "currentSourceType",
+    "data": [{
+      "value": 0,
+      "primaryText": "GI2"
+    }, {
+      "value": 1,
+      "primaryText": "PI2"
+    }, {
+      "value": 2,
+      "primaryText": "LI2"
+    }, {
+      "value": 3,
+      "primaryText": "SI2"
+    }]
+  }
+}]}

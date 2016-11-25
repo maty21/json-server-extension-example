@@ -1,0 +1,133 @@
+{
+    "newsDetails": [
+        {
+            "id": "1",
+            "isStarMark": false,
+            "header": "no no no obamba",
+            "created": {
+                "date": "2/11/44 bc",
+                "by": "carlos"
+            },
+            "modified": {
+                "date": "11:00 20/1/2012",
+                "by": "carlos"
+            },
+            "received": "11:00 20/1/2012",
+            "imgKey": "MapsDirectionsCar",
+            "classification": "Secret",
+            "priority": "Low",
+            "crimeType": "Trump",
+            "reliability": "1-10",
+            "source": {
+                "type": "Colaborator",
+                "nickname": "batman"
+            },
+            "credibility": "1-10",
+            "occuredDateFrom": "10:00 1/1.2015",
+            "occuredDateTo": "11:00 1/1.2015",
+            "description": "no election here",
+            "remarks": [
+                {
+                    "remarkedBy": "sting",
+                    "id": 1,
+                    "date": "02/11/2016",
+                    "remark": "dada"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 1,
+                    "text": "lamburgini"
+                },
+                {
+                    "id": 2,
+                    "text": "bla bla tag"
+                }
+            ],
+            "locations": [
+                {
+                    "id": 1,
+                    "address": "New york city",
+                    "description": {
+                        "details": "Trump building",
+                        "url": "blaBla.com"
+                    }
+                }
+            ],
+            "attachments": [
+            ],
+            "isFetching": false,
+            "didInvalidate": false
+        },
+        {
+            "id": "2",
+            "isStarMark": false,
+            "header": "Yes Yes Yes indeed",
+            "created": {
+                "date": "2/11/78",
+                "by": "carlos"
+            },
+            "modified": {
+                "date": "11:00 20/1/2012",
+                "by": "carlos"
+            },
+            "received": "11:00 20/1/2012",
+            "imgKey": "MapsDirectionsCar",
+            "classification": "Secret",
+            "priority": "Low",
+            "crimeType": "Trump",
+            "reliability": "1-10",
+            "source": {
+                "type": "Colaborator",
+                "nickname": "batman"
+            },
+            "credibility": "1-10",
+            "occuredDateFrom": "10:00 1/1.2015",
+            "occuredDateTo": "11:00 1/1.2015",
+            "description": "Dunald trump elected",
+            "remarks": [
+                {
+                    "remarkedBy": "Hillery Clinton",
+                    "id": 1,
+                    "date": "02/11/2016",
+                    "remark": "I will fuck trump"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 1,
+                    "text": "Trump is red head"
+                },
+                {
+                    "id": 2,
+                    "text": "Trump is bad?"
+                }
+            ],
+            "locations": [
+                {
+                    "id": 1,
+                    "address": "New york city",
+                    "description": {
+                        "details": "Trump building",
+                        "url": "blaBla.com"
+                    }
+                }
+            ],
+            "attachments": [
+                {
+                    "id": 1,
+                    "path": "scene1"
+                },
+                {
+                    "id": 2,
+                    "path": "scene2"
+                }
+            ],
+            "isFetching": false,
+            "didInvalidate": false
+        }
+    ],
+    "test": {
+        "body": "this is test"
+    }
+}

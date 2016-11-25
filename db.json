@@ -1,0 +1,13 @@
+{
+  "feedTemp": [
+          {"id":"1N12134","newNotificationCount":2,"isRead":true,"isStarMark":false, "iconType":"SocialNotifications","description":"this is a new  feed ","date":"11/18/2016, 7:18:32 PM"},
+      {"id":"2N12134","newNotificationCount":2, "isRead":false,"isStarMark":true,"iconType":"SocialNotifications","description":"this is a new  feed ","date":"11/18/2016, 7:18:32 PM"}
+    ],
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
